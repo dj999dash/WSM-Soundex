@@ -2,7 +2,9 @@
 WSM Group Project
 
 Soundex is a phonetic algorithm and is based on how close two words are depending on their English pronunciation.
-We have implemented this code using Python.
+We have implemented this code using Python. 
+
+Note : We have attached the ScreenShot of output of the program as screenshot_output.png
 
 ### Group Members :-
 1. Divyajyoti Dash ( B318013 )
