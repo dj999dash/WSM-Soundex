@@ -1,5 +1,5 @@
 # WSM-Soundex
-WSM Group Project
+## WSM Midsem Group Project
 
 Soundex is a phonetic algorithm and is based on how close two words are depending on their English pronunciation.
 We have implemented this code using Python. 
