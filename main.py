@@ -20,7 +20,7 @@ def get_soundex(name):
 	return soundex
 
 if __name__ == '__main__':
-	list = ["Smith", "Smythe", "Robert", "Rupert", "Schultz", "Shultzz"]
+	list = ["Sure", "Shore", "Robert", "Rupert", "Schultz", "Shultzz"]
 
 	print("NAME\t\tSOUNDEX")
 	for name in list:
